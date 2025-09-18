@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Training outputs
+out/
+*.bin
+*.pkl
+
+# Temp files
+tempCodeRunnerFile.py
